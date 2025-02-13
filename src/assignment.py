@@ -10,4 +10,8 @@ word_2 = " built"
 word_3 = " today"
 word_4 = " were"
 
-print(str(int(num_str_1) + int(num_str_2))+ word_1 + word_4 + word_2 + word_3)
+
+
+sentence = (str(int(num_str_1) + int(num_str_2))+ word_1 + word_4 + word_2 + word_3)
+
+print(sentence)
